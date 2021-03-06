@@ -1,7 +1,7 @@
 # IMUNUS
 Imunus é um jogo educativo de plataforma que visa tornar a tecnologia aliada da educação ajudando professores de biologia no ensino do sistema imunológico. No jogo o personagem principal, Leo, é um leucócito, a célula básica de defesa do corpo humano e está na corrente sanguínea a procura de invasores para atacar usando nutrientes e vacinas que recebemos desde a infância. Buscamos deixar o jogo divertido, educativo e envolvente para que as crianças do 5 ao 8 ano aprendam de forma lúdica. 
 
-##Como executar?
+## Como executar?
 Para executar o jogo, é recomendado que o usuário tenha a versão mais atualizada do Python3 e do GIT, para instalar o projeto. 
 ```
 $ python3 --version
