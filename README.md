@@ -19,3 +19,5 @@ $ git clone https://github.com/TP-Coltec-UFMG/Jornada-por-Gavendish
 $ pip3 install --requirement Jornada-por-Gavendish/requirements.txt
 ```
 
+## Acessibilidade 
+Para que o jogo seja bem difundido nas escolas é necessário que o mesmo seja acessível, devido á isso um dos focos do jogo é a acessibilidade. Logo, o projeto conta com diferentes recursos para trazer uma boa experiência a todos os jogadores, por exemplo os modos para diferentes tipos de daltonismo:
