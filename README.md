@@ -39,3 +39,7 @@ Para que o jogo seja bem difundido nas escolas é necessário que o mesmo seja a
 
 <img src = "https://github.com/TP-Coltec-UFMG/Imunus/blob/main/ImagensRead/porta_deuteronopia.jpg">
 
+## Planos futuros
+
+Implementação de uma engine para otimizar o código e criação de mais fases e inimigos para aumentar o desafio ao jogar. Quanto à acessibilidade implementar audiodescrição em todo o jogo para que deficientes visuais sejam incluidos. E para deixar o jogo ainda mais educativo, vamos explicar os inimigos (doenças) e suas respectividas formas de combate.
+
