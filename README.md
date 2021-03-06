@@ -13,11 +13,11 @@ git version 2.24.0.windows.2
 Além disso, é necessário utilizar a IDE PyCharm para executar o código, já que ocorre um erro ao tentar executar o programa pelo terminal. Após criar um projeto novo (vazio) e baixar a pasta, ou cloná-la utilizando os seguintes comandos
 ```
 # Clonando o repositório principal do jogo
-$ git clone https://github.com/TP-Coltec-UFMG/Jornada-por-Gavendish
-
-# Instalando as dependências necessárias
-$ pip3 install --requirement Jornada-por-Gavendish/requirements.txt
+$ git clone https://github.com/TP-Coltec-UFMG/Imunus
 ```
 
 ## Acessibilidade 
 Para que o jogo seja bem difundido nas escolas é necessário que o mesmo seja acessível, devido á isso um dos focos do jogo é a acessibilidade. Logo, o projeto conta com diferentes recursos para trazer uma boa experiência a todos os jogadores, por exemplo os modos para diferentes tipos de daltonismo:
+
+Menu Principal
+<img src = "https://github.com/TP-Coltec-UFMG/Imunus/ImagensRead/menu.jpg">
