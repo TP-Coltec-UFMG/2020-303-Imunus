@@ -20,4 +20,4 @@ $ git clone https://github.com/TP-Coltec-UFMG/Imunus
 Para que o jogo seja bem difundido nas escolas é necessário que o mesmo seja acessível, devido á isso um dos focos do jogo é a acessibilidade. Logo, o projeto conta com diferentes recursos para trazer uma boa experiência a todos os jogadores, por exemplo os modos para diferentes tipos de daltonismo:
 
 Menu Principal
-<img src = "https://github.com/TP-Coltec-UFMG/Imunus/ImagensRead/menu.jpg">
+<img src = "https://github.com/TP-Coltec-UFMG/Imunus/blob/main/ImagensRead/menu.jpg">
