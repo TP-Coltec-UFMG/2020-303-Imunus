@@ -19,23 +19,23 @@ $ git clone https://github.com/TP-Coltec-UFMG/Imunus
 ## Acessibilidade 
 Para que o jogo seja bem difundido nas escolas é necessário que o mesmo seja acessível, devido á isso um dos focos do jogo é a acessibilidade. Logo, o projeto conta com diferentes recursos para trazer uma boa experiência a todos os jogadores, por exemplo os modos para diferentes tipos de daltonismo:
 
-Menu Principal
+### Menu Principal
 
 <img src = "https://github.com/TP-Coltec-UFMG/Imunus/blob/main/ImagensRead/menu.jpg">
 
-Tutorial para pular
+### Tutorial para pular
 
 <img src = "https://github.com/TP-Coltec-UFMG/Imunus/blob/main/ImagensRead/pulando.jpg">
 
-Atacando os inimigos em modo Protanotopia
+### Atacando os inimigos em modo Protanopia
 
 <img src = "https://github.com/TP-Coltec-UFMG/Imunus/blob/main/ImagensRead/atacando_protanotopia.jpg">
 
-Porta final em modo Tritanotopia
+### Porta final em modo Tritanopia
 
 <img src = "https://github.com/TP-Coltec-UFMG/Imunus/blob/main/ImagensRead/inimigos_tritanotopia.jpg">
 
-Porta abrindo com as chaves em modo Deuteranopia
+### Porta abrindo com as chaves em modo Deuteranopia
 
 <img src = "https://github.com/TP-Coltec-UFMG/Imunus/blob/main/ImagensRead/porta_deuteronopia.jpg">
 
