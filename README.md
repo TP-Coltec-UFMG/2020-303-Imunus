@@ -21,3 +21,19 @@ Para que o jogo seja bem difundido nas escolas é necessário que o mesmo seja a
 
 Menu Principal
 <img src = "https://github.com/TP-Coltec-UFMG/Imunus/blob/main/ImagensRead/menu.jpg">
+
+Tutorial para pular
+<img src = "https://github.com/TP-Coltec-UFMG/Imunus/blob/main/ImagensRead/pulando.jpg">
+
+Atacando os inimigos em modo Protanotopia
+
+<img src = "https://github.com/TP-Coltec-UFMG/Imunus/blob/main/ImagensRead/atacando_protanotopia.jpg">
+
+Porta final em modo Tritanotopia
+
+<img src = "https://github.com/TP-Coltec-UFMG/Imunus/blob/main/ImagensRead/inimigos_tritanotopia.jpg">
+
+Porta abrindo com as chaves em modo Deuteranopia
+
+<img src = "https://github.com/TP-Coltec-UFMG/Imunus/blob/main/ImagensRead/porta_deuteronopia.jpg">
+
